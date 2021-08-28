@@ -5,9 +5,11 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML & CSS**.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Mairasirino&color=f8efd4&style=for-the-badge&logo=GitHub">
+
 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairasirino&layout=compact"> <img align='center' src="https://github-readme-stats.vercel.app/api?username=mairasirino&theme=vue&show_icons=true">
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Mairasirino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
