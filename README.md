@@ -41,5 +41,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Maira Carvalho](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maira-carvalho-0a305412b/)](https://www.linkedin.com/in/maira-carvalho-0a305412b/)
-[![Gmail Badge](https://img.shields.io/badge/-Maira Sirino-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mairacarvalho@gmail.com)](mailto:mairacarv@gmail.com)
+[![Linkedin: Maira Carvalho](https://img.shields.io/badge/-MairaSirino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maira-carvalho-0a305412b/)](https://www.linkedin.com/in/maira-carvalho-0a305412b/)
+
