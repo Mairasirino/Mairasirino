@@ -1,17 +1,20 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Mairasirino&theme=dracula&show_icons=true">
+## 💜 Olá, meu nome é <strong>Mai!</strong>
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML & CSS**.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Mairasirino&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairasirino&layout=compact"> <img align='center' src="https://github-readme-stats.vercel.app/api?username=mairasirino&theme=vue&show_icons=true">
 
 <p>
 
 
 </p>
+
+
 
 <hr>
 
@@ -20,12 +23,13 @@
 
 **Aplicações e Dados**
 
-  ![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=C%2B%2B&)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  
 
 **DevOps**
 
