@@ -7,7 +7,7 @@
 
 
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairasirino&layout=compact"> <img align='center' src="https://github-readme-stats.vercel.app/api?username=mairasirino&theme=vue&show_icons=true">
+<img align='center'  height="193" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairasirino&theme=vue"> <img align='center' src="https://github-readme-stats.vercel.app/api?username=mairasirino&theme=vue&show_icons=true">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Mairasirino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
